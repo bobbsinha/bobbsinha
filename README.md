@@ -1,9 +1,4 @@
 <html>
-<head>
-<!-- HTML Codes by Quackit.com -->
-<title>
-</title>
-</head>
 <body>
 <h1>Profile - Ravi Sinha</h1>
 <p>An accomplished IT professional with core expertise in Technology, Software Architectures, Information Security, Technical Program Management, Operations & Service Delivery and IT Governance.</p>
